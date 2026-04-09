@@ -48,7 +48,7 @@ cd vecless_rag
 ```
 - 2️⃣ Install dependencies
 ```
-pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 - 3️⃣ Add API Keys
 -- Create a constants.py file:
