@@ -33,7 +33,7 @@ Get Your API's By Creating Account.
 ## 📂 Project Structure
 ```
 vecless_rag/
-│── vecless_rag.ipynb    # Main Code File
+│── vectorless_rag.ipynb   # Main Code File
 │── constants.py         # Stores API key
 │── requirements.txt     # Dependencies
 └── README.md            # Documentation
